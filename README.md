@@ -1,2 +1,2 @@
-# android-games
-Project that contains two android apps: MazeGames and OnlineShop
+# Android apps
+##Project that contains two android apps: MazeGames and OnlineShop
